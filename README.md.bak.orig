@@ -1,0 +1,10 @@
+# Test
+测试GIT
+
+asdfadsf
+<<<<<<< HEAD
+slave
+=======
+asdfadf
+add for slave remote
+>>>>>>> origin/master
